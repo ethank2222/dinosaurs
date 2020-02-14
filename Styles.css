@@ -1,0 +1,30 @@
+body {
+	background-color: gray;
+	color: white;
+	font-size: 22px;
+	padding: 25px;
+}
+thumbnail {
+	border-radius: 50%;
+}
+p {
+	margin-left: 38px;
+	margin-right: 38px;
+}
+h1 {
+	color: white;
+	padding-top: 20px;
+}
+a {
+	color: white;
+}
+h2 {
+	color: white;
+}
+din1 {
+	padding-left: 18px;
+	
+}
+iframe {
+	padding-bottom: 50px;
+}
